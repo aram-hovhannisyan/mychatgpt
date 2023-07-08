@@ -2,7 +2,7 @@
 #chatgpt in terminal using python
 This document provides instructions on how to use the ChatGPT model to generate responses and interact with it in a conversational manner. The provided code allows you to integrate the ChatGPT model into your Python project and communicate with it using prompts.
 
-Prerequisites
+#Prerequisites
 Before you can use the ChatGPT model and the provided code, you need to have the following:
 
 OpenAI API Key: To access the OpenAI API, you need to have an API key. If you don't have one, visit the OpenAI website (https://openai.com) to sign up and obtain your API key.
